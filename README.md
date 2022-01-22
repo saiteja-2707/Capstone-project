@@ -25,22 +25,42 @@ Based on your inputs the hiring manager would understand how different features 
 Feature Description
 
 1.Gender - talks of the gender - Male or female
+
 2.Business - if the person has a business or no
+
 3.Age - age of the person
+
 4.Salary - CTC of the employee
+
 5.Dependants - number of people dependant on the person
+
 6.Months - duration of the person employed with the company
+
 7.Calls - if the person has authority to make calls or not
+
 8.Type - salary settlement type
+
 9.Billing - Subscribed to billing plans or no
+
 10.Unit sales - unit sale made by the person
+
 11.Total sales - total sales made by the person
+
 12.Rating - If he has been given a rating by a superior or no
+
 13.Bonus - amount received by a person as bonus for sales
+
 14.Base pay - Base pay of the employee
+
 15.Unit price - The Unit price of a sale
+
 16.Volume - volume allotted to a person
+
 17.Opening balance - The opening balance of an employee
+
 18.Low - lowest balance allotted to a person.
+
 19.Closing Balance- The closing balance of an employee
+
 20.Education- Educational background of an employee
+
